@@ -10,12 +10,15 @@ POST /api/Pizzas
 
 Body:
 {
+
   "flavor": {flavor_index},
   
   "size": {size_index},
   
   "extras" {extra_index}
+  
 }
+
 
 Sendo:
 
