@@ -8,9 +8,12 @@ Abaixo são apresentados os comandos para execução desta aplicação:
 
 POST /api/Pizzas
 
+Body:
 {
   "flavor": {flavor_index},
+  
   "size": {size_index},
+  
   "extras" {extra_index}
 }
 
