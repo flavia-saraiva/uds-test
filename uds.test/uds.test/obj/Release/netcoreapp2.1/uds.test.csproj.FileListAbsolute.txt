@@ -1,0 +1,14 @@
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\bin\Release\netcoreapp2.1\uds.test.deps.json
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\bin\Release\netcoreapp2.1\uds.test.runtimeconfig.json
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\bin\Release\netcoreapp2.1\uds.test.runtimeconfig.dev.json
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\bin\Release\netcoreapp2.1\uds.test.dll
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\bin\Release\netcoreapp2.1\uds.test.pdb
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\obj\Release\netcoreapp2.1\uds.test.csprojAssemblyReference.cache
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\obj\Release\netcoreapp2.1\uds.test.csproj.CoreCompileInputs.cache
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\obj\Release\netcoreapp2.1\uds.test.RazorAssemblyInfo.cache
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\obj\Release\netcoreapp2.1\uds.test.RazorAssemblyInfo.cs
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\obj\Release\netcoreapp2.1\uds.test.AssemblyInfoInputs.cache
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\obj\Release\netcoreapp2.1\uds.test.AssemblyInfo.cs
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\obj\Release\netcoreapp2.1\uds.test.RazorTargetAssemblyInfo.cache
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\obj\Release\netcoreapp2.1\uds.test.dll
+C:\Users\USER\flavia-saraiva\uds.test\uds.test\obj\Release\netcoreapp2.1\uds.test.pdb
